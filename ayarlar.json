@@ -1,0 +1,25 @@
+{
+
+    "sahip" : "663344128591134720",
+    "prefix" : "-",
+    "footer" : "Vetrox",
+
+    "tag" : "✫",
+    "sembol" : "|",
+
+    "yetkiliRol" : ["", "", ""],
+    "vipRol" : "",
+    "boosterRol" : "",
+    "kayıtsızRol" : "",
+    "erkekRol1" : "",
+    "erkekRol2" : "",
+    "kadınRol1" : "",
+    "kadınRol2" : "",
+
+    "hosgeldinKanal" : "",
+    "sohbetKanal" : "", 
+    "botSesKanal" : "",
+
+    "yes" : "",
+    "no" : ""
+}
