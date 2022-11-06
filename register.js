@@ -80,7 +80,7 @@ Ayrıca hesabın 15 günden fazla bir süredir Discord'da bulunmalı.
 Ceza işlemlerin <#KURALLAR KANALI ID> kanalını okuduğun varsayılarak uygulanır. ( <@&HOS GELDİN MESAJ YETKİLİ ROL ID> )`)});
 
 
-client.login("ODc5MzA5NDk4MDg5NjE5NDg3.YSN2yQ.ZvyluVkXfBmNAOlxfNBCw_8Cm30")
+client.login("token")
 
 client.on("ready", () => {
   client.channels.cache.get(ayarlar.botSesKanal).join();
